@@ -1,0 +1,26 @@
+{
+  "name": "joelgarzaresume",
+  "version": "1.0",
+  "description": "joel garza resume json part",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelgarza/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "joelgarza",
+    "joel",
+    "softwareengineer",
+    "coding"
+  ],
+  "author": "Joel Garza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelgarza/resume/issues"
+  },
+  "homepage": "https://github.com/joelgarza/resume"
+}
