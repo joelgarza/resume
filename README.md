@@ -1,3 +1,4 @@
+#Resume
 #Joel Garza
 joelgarza@me.com
 #SUMMARY AND QUALIFICATIONS
@@ -6,7 +7,7 @@ As a Software Engineer my duty is to present solutions to different coding chall
 #SKILLS
 HTML, CSS, JavaScript, WordPress, Creative Cloud, Fluent in Spanish
 #EDUCATION
-The Art Institute of Houston / Associate of Applied Arts Degree in Visual Communications • 1994
-Code RGV Boot Camp • 2016
+The Art Institute of Houston / Associate of Applied Arts Degree in Visual Communications
+Code RGV Boot Camp
 #OBJECTIVE
 Submerge myself deep into code and create technology to advance humanity
