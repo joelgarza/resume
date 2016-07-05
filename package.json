@@ -14,8 +14,11 @@
     "resume",
     "joelgarza",
     "joel",
-    "softwareengineer",
-    "coding"
+    "software",
+    "engineer",
+    "coding",
+    "rgv",
+    "bootcamp",
   ],
   "author": "Joel Garza",
   "license": "ISC",
@@ -24,3 +27,4 @@
   },
   "homepage": "https://github.com/joelgarza/resume"
 }
+
