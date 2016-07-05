@@ -1,7 +1,7 @@
 # Resume
 #Joel Garza
 joelgarza@me.com
-#SUMMARY AND QUAlIFICATIONS
+#SUMMARY AND QUALIFICATIONS
 Extremely outgoing, friendly, dependable, team player, professional, detail oriented, full of energy, hard working, great thinker, good observer, honest and uphold a positive attitude at all times.
 As a Software Engineer my duty is to present solutions to different coding challenges. I communicate a message in a good looking and effective way of visual form.
 #SKILLS
