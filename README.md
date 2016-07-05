@@ -1,4 +1,3 @@
-#Resume
 #Joel Garza
 joelgarza@me.com
 #SUMMARY AND QUALIFICATIONS
